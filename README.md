@@ -67,9 +67,9 @@ ________________________________________
 
 **Title:** Fundamentals of Generative AI and Large Language Models (LLMs)
 
-**Author:** THARUN P
+**Author:** Mourise jane
 
-**Reg no:** 212223060289
+**Reg no:** 212222230085
 
 ---
 
